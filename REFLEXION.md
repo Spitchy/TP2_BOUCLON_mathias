@@ -1,0 +1,1 @@
+Ce TD ma permis de découvir l'utilisation et le principe des tests RED, GREEN et REFACTOR. J'ai aussi pu utilisé les fonctions mise en place par les outils  d'aide avec KATA, et le fonctionnement du développement par baby step. 
