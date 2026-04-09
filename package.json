@@ -1,0 +1,27 @@
+{
+  "name": "tp2_bouclon_mathias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spitchy/TP2_BOUCLON_mathias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Spitchy/TP2_BOUCLON_mathias/issues"
+  },
+  "homepage": "https://github.com/Spitchy/TP2_BOUCLON_mathias#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
